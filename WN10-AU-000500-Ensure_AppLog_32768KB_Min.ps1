@@ -7,20 +7,19 @@
     LinkedIn        : --
     GitHub          : https://github.com/greetingsog
     Date Created    : 2025-11-06
-    Last Modified   : 2025-11-06
+    Last Modified   : 2026-01-29
     Version         : 1.0
     CVEs            : N/A
     Plugin IDs      : N/A
     STIG-ID         : WN10-AU-000500
 
 .TESTED ON
-    Date(s) Tested  : 
-    Tested By       : 
+    Date(s) Tested  : 2025-11-06
+    Tested By       : OG
     Systems Tested  : 
     PowerShell Ver. : 
 
 .USAGE
-    Put any usage instructions here.
     Example syntax:
     PS C:\> .\STIG-ID-WN10-AU-000500.ps1 
 #>
