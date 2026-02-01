@@ -18,10 +18,10 @@
     STIG-ID         : WN10-CC-000010
 
 .TESTED ON
-    Date(s) Tested  : 
-    Tested By       : 
-    Systems Tested  : 
-    PowerShell Ver. : 
+    Date(s) Tested  : 2025-11-12
+    Tested By       : OG
+    Systems Tested  : Windows 10 Pro
+    PowerShell Ver. : 5.1
 
 .USAGE
     Put any usage instructions here.
