@@ -4,10 +4,21 @@ This repository contains a collection of PowerShell scripts for automating DISA 
 # Overview
 Security Technical Implementation Guides (STIGs) are configuration standards developed by the Defense Information Systems Agency (DISA) to ensure the security of Department of Defense (DoD) information systems. These scripts facilitate the automation of STIG compliance for Windows environments.
 
-# Repository Structure
-<br>**Scripts/:** Contains individual PowerShell scripts, each addressing specific STIG requirements. 
-<br>**Documentation/:** Includes detailed documentation and usage guides for each script. 
-<br>**Tests/:** Houses test cases and validation scripts to ensure the correctness of the STIG implementations. Getting Started Prerequisites Operating System: Windows 10 or Windows Server 2016 and above. 
-<br>**PowerShell Version:** 5.1 or higher. 
-<br>**Administrative Privileges:** Ensure you run the scripts with administrative rights to apply system-level changes.
+## Repository Organization
+
+    Scripts/: PowerShell automation for individual STIG requirements.
+
+    Documentation/: Detailed usage guides and implementation notes.
+
+    Tests/: Validation scripts to verify STIG compliance and script accuracy.
+
+## Getting Started
+
+To use these scripts, your environment must meet the following criteria:
+
+    OS: Windows 10 or Windows Server 2016+.
+
+    PowerShell: Version 5.1 or later.
+
+    Permissions: Must be executed with Administrative Privileges to modify system-level settings.
 
