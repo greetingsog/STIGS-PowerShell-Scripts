@@ -6,8 +6,6 @@ Security Technical Implementation Guides (STIGs) are configuration standards dev
 
 ## Repository Organization
 - Scripts/: PowerShell automation for individual STIG requirements.
-- Documentation/: Detailed usage guides and implementation notes.
-- Tests/: Validation scripts to verify STIG compliance and script accuracy.
 
 ## Getting Started
 To use these scripts, your environment must meet the following criteria:
